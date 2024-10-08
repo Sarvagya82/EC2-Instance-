@@ -1,6 +1,7 @@
 Live Link : 
-ec2_docker_fqdn = "ec2-docker.awswordpress.me"
-ec2_instance_fqdn = "ec2-instance.awswordpress.me"
+EC2 Instance: https://ec2-instance.awswordpress.me
+Docker Container: https://ec2-docker.awswordpress.me
+
 
 Https live link : https://ec2-docker.awswordpress.me
 Https live link : https://ec2-instance.awswordpress.me
