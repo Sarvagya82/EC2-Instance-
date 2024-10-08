@@ -1,0 +1,1 @@
+This Terraform project deploys an EC2 instance in a public subnet with an Elastic IP. It sets up two subdomains: ec2-docker.<domain> and ec2-instance.<domain>. Docker runs a container on port 8080 serving "Namaste from Container." NGINX proxies one subdomain to the container and serves "Hello from Instance" on the other. Using SSL/TLS Certificate.
